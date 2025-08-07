@@ -6,13 +6,11 @@
 
 ## 📖 About
 
-This project uses Google's **Gemini 2.5 Flash** model to automatically generate an entire Python programming book titled:
+This project uses Google's **Gemini 2.5 Flash** model to automatically generate an entire ebook by providing the System a single title & description.
 
 > **Building Blocks: Guide To Python, One Pie At A Time**
 
-Each chapter uses baking metaphors to make Python approachable and fun—from basic variables (ingredients) to object-oriented programming (layered pies).
-
----
+Takes 10 minutes to write a 24 chapter book and then generates a cover using AI text to image based on the book title or story.
 
 ## 🚀 Features
 
@@ -21,6 +19,7 @@ Each chapter uses baking metaphors to make Python approachable and fun—from ba
 - Writes full chapters (3000-4000 words) with examples, metaphors, and exercises
 - Produces introduction and conclusion sections
 - Saves all content in neatly structured `.txt` files
+- Compiles/Merges .txt files into one comprehensive PDF ebook.
 - Fully automatic with minimal user input
 - Friendly CLI interface with progress indicators
 
